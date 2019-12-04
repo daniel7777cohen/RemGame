@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/../../../RemGame/LevelDesignerGui/Content/HealthBar.jpg</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Assets/Chalk.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Assets/Hands_temp.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Assets/HealthBar.jpg</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Assets/HealthBooster.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Assets/Principal_Ranged_Chalk.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Assets/Principal_Stand.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Assets/Principal_Walk.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/AddAsset.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/AddMap.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/AddSound.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/bullet.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/Collision.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/DoneAdd.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/Empty.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/HealthBar.jpg</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/HealthBooster.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/Kid.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/Principal.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/Save.png</File>
+    <File>C:/Users/TEMP/Downloads/RemGame/LevelDesignerGui/Content/Menu/Yoyo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>HealthBar.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

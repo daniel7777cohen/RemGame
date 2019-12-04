@@ -1,0 +1,15 @@
+
+.vs/
+RemGame/bin
+RemGame/obj
+RemGame/Content/obj
+RemGame/Content/bin
+Util/bin
+Util/obj
+Farseer/bin
+Farseer/obj
+LevelDesignerGui/bin
+LevelDesignerGui/obj
+XELibrary/bin
+XELibrary/obj
+RemGame/RemGame/Content/bin/Windows/Content/*
